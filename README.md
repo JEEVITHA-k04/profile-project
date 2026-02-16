@@ -6,8 +6,8 @@ This project demonstrates end-to-end development including database design, REST
 
 # Live Demo
 
-Frontend: <Your Vercel URL>
-Backend API: <Your Render URL>/api/profile
+Frontend: https://your-frontend.vercel.app
+Backend API: https://profile-project-28u1.onrender.com/api/profile
 
 # Tech Stack
 Frontend
